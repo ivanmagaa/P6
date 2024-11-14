@@ -1,5 +1,5 @@
 <h1>Configuración Cliente e Servidor DNS</h1>
- <p><strong>Autor:</strong> Juan Gabriel González Romero</p>
+ <p><strong>Autor:</strong> Iván Magariños Brea</p>
  <h2>Proposta</h2>
  <p>Engadir un servizo que se conectará ao DNS no ficheiro <code>docker-compose.yml</code>
  do proxecto anterior.</p>
